@@ -1,0 +1,6 @@
+{
+    "host": "[...].ftp.azurewebsites.windows.net",
+    "user": "[app]\\[user]",
+    "pass": "[password]",
+    "remotePath": "/site/wwwroot/App_Data/jobs/triggered/[webjob]"
+}
