@@ -1,0 +1,22 @@
+{
+  "name": "sp-pnp-node-modes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ambient": "ts-node ./src/ambient",
+    "factory": "ts-node ./src/factory"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sp-pnp-js": "^2.0.5",
+    "sp-pnp-node": "^0.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^3.0.4",
+    "tslint": "^5.4.2",
+    "typescript": "^2.3.4"
+  }
+}
